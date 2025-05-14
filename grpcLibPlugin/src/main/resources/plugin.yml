@@ -3,4 +3,4 @@ description: A library for creating Minecraft gRPC plugins. Contains protobuf an
 api-version: 1.0
 version: "1.0-SNAPSHOT"
 author: rivo-tuksammel
-main: com.yplugins.minecraftrpc.MinecraftRPC
+main: com.yplugins.grpcLibPlugin.GrpcLib

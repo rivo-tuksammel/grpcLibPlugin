@@ -1,10 +1,12 @@
+package com.yplugins.grpcLibPlugin;
+
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class MinecraftRPC extends JavaPlugin {
+public class GrpcLib extends JavaPlugin {
 
     private static final Logger logger = Bukkit.getLogger();
 
