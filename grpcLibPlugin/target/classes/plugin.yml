@@ -1,0 +1,6 @@
+name: GrpcLibPlugin
+description: A library for creating Minecraft gRPC plugins. Contains protobuf and gRPC dependencies.
+api-version: 1.0
+version: "1.0-SNAPSHOT"
+author: rivo-tuksammel
+main: com.yplugins.grpcLibPlugin.GrpcLib
